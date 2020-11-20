@@ -17,4 +17,6 @@ Your contributions are always welcome!
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 
+Bitte sende eine Email.
+
 Just a gentle reminder: **Try not to submit your own project. Instead, wait for someone finds it useful and submits it for you.**
